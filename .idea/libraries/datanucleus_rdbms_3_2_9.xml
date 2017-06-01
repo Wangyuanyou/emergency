@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datanucleus-rdbms-3.2.9">
+    <CLASSES>
+      <root url="jar:///usr/local/hive/apache-hive-1.2.2-bin/lib/datanucleus-rdbms-3.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="emergency:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/emergency_jar</output-path>
+    <root id="archive" name="emergency.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Documents/Documents/Spark/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="emergency" />
+      <element id="extracted-dir" path="/usr/local/hive/apache-hive-1.2.2-bin/lib/datanucleus-rdbms-3.2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/JacksonLib/jackson-databind-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/spark-streaming-flume_2.10-1.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/JacksonLib/jackson-annotations-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hive/apache-hive-1.2.2-bin/lib/datanucleus-core-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hive/apache-hive-1.2.2-bin/lib/datanucleus-api-jdo-3.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/JacksonLib/jackson-dataformat-xml-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/src/scala-swing-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/src/scala-reflect-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/src/scala-library-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/scala/src/scala-actors-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/spark/spark-1.5.1-bin-hadoop2.6/lib/spark-assembly-1.5.1-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/JacksonLib/jackson-core-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/slf4j-1.7.10/slf4j-nop-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Documents/Spark/jobServer/spark-jobserver/job-server-api/target/job-server-api-0.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/flume/apache-flume-1.6.0-bin/lib/flume-ng-sdk-1.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
