@@ -1,4 +1,5 @@
-# emergency
+#Spark based data integration system
+
 • Established an Spark based data integration system to integrate stream and batch data from outer system using Scala.
 
 • Achieved user-defined ETL by persisting components meta data to MySQL, parsing JSON configuration files and
